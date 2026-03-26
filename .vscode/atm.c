@@ -19,5 +19,5 @@ int main(){
     scanf("%d", &amount);
     
     printf("remaining balance is %d", withdraw(amount, balance));
-
+  
 }
